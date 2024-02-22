@@ -1,0 +1,20 @@
+.red {
+    color:red;
+    text-transform: capitalize;
+}
+
+.green {
+    color: green;
+    text-transform: lowercase;
+} 
+
+div {
+    color: aqua;
+    background: goldenrod;
+}  
+span {
+    text-transform: uppercase;
+    text-shadow: 0cm;
+}
+ 
+
